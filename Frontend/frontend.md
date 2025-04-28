@@ -68,7 +68,7 @@ Response 401:
 ```
 
 
-## POST: https://[service-url]/re-chat/ai/completion 
+**POST: https://[service-url]/re-chat/ai/completion**
 
 *Query the completion of the user input* 
 
@@ -88,7 +88,7 @@ Response 200:
 ```
 
 
-## POST: https://[service-url]/re-chat/ai/completion/vote
+**POST: https://[service-url]/re-chat/ai/completion/vote**
 
 *Score the completion*
 
